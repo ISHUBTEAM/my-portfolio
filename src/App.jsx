@@ -83,8 +83,6 @@ function App() {
             <p>
               <strong>Technologies:</strong> HTML, CSS, JavaScript, React
             </p>
-
-            <p>Currently in development 🚧</p>
           </div>
 
         </div>
