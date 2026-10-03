@@ -10,7 +10,7 @@ function App() {
         <h1>Hi, I'm Yeabsira Mersha 👋</h1>
 
         <p className="subtitle">
-          Information System Student | Aspiring Cybersecurity & ML Professional
+          Information Systems Student | Aspiring Cybersecurity & ML Professional
         </p>
 
         <p>
